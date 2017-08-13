@@ -1,2 +1,2 @@
-# meson-cpp
-Testing C++ Project with meson build
+# test-cpp
+Testing C++ build tools (Meson, Ninja, CMake) 
